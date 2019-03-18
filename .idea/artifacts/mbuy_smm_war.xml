@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mbuy_smm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ebuy_maven_ssm.war">
+      <element id="artifact" artifact-name="mbuy_smm:war exploded" />
+    </root>
+  </artifact>
+</component>
