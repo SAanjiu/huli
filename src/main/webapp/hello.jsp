@@ -21,7 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-  你好,${sessionScope.name}
  你好,${requestScope.name} 
   </body>
 </html>
